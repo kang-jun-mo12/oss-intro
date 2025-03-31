@@ -111,3 +111,8 @@ Kaggle과 같이 실전 문제 해결형 프로젝트에도 적극적으로 참�
 | 시각화 도구  | Tableau, Power BI, Matplotlib, Plotly |
 | 데이터베이스 | MySQL, PostgreSQL |
 | 기타         | Git, GitHub, Jupyter, Notion, VS Code
+
+---
+
+## 추천인
+광운대학교 정보융합학부 박교동 교수
